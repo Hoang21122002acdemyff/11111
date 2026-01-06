@@ -1,0 +1,9 @@
+{
+  "tolerance": 0.35,
+  "confirmation_count": 3,
+  "show_fps": true,
+  "show_confidence": true,
+  "dark_overlay": true,
+  "sound_enabled": true,
+  "toast_enabled": true
+}
